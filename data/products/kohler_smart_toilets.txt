@@ -1,0 +1,15 @@
+SOURCE: KOHLER official product/support information
+PURPOSE: Prototype knowledge base. Verify model-specific details against the official product page/manual.
+
+KOHLER Smart Toilets
+KOHLER's smart toilet range includes models such as Veil, Leap, Innate, Eir, Numi 2.0 and others. Features vary by model.
+
+General smart-toilet guidance:
+- Smart toilets may provide automatic flushing, heated seats, bidet cleansing, lighting, deodorizing and other features depending on model.
+- KOHLER's current smart toilet guidance says installation requires water supply and a nearby grounded electrical outlet for powered features.
+- Many floor-mount smart toilets are designed around a 12-inch rough-in, but the exact model must be checked before installation.
+- Before purchase or installation, verify rough-in measurement, outlet location, available floor space and lid clearance.
+- Use the exact model's installation guide for model-specific requirements.
+
+Official resource:
+https://www.kohler.com/en/products/smart-home/shop-smart-toilets

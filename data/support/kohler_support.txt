@@ -1,0 +1,14 @@
+SOURCE: KOHLER official support pages
+
+For product support:
+- Locate the product model number before requesting support when possible.
+- KOHLER provides product support, warranty information, installation guidance and troubleshooting resources.
+- KOHLER Assist provides tools for finding products/parts, model numbers and installation guides.
+- KOHLER's support contact form can accept photos/documents and asks for product type and model number.
+
+Official support:
+https://assist.kohler.com/en
+https://www.kohler.com/en/support/contact
+
+Product identification:
+KOHLER says its Scout app can help identify a product model number from an uploaded photo. This prototype does not claim to reproduce Scout's identification accuracy.

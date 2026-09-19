@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+scikit-learn
+pypdf
+python-docx
+pillow
+faster-whisper

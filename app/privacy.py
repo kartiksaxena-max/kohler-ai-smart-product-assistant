@@ -1,0 +1,11 @@
+import streamlit as st
+st.title('Privacy & Responsible AI')
+st.write('This prototype processes user-provided questions and uploaded files to provide product-assistance features.')
+st.subheader('Data minimization')
+st.write('Do not upload unnecessary personal, payment-card, confidential business or sensitive information.')
+st.subheader('Uploads')
+st.write('Uploaded files are processed for the selected feature. The prototype does not intentionally create a permanent customer-file database.')
+st.subheader('AI processing')
+st.write('AI requests may be sent to the configured OpenAI service. Review the applicable service terms and organizational policies before using real customer data.')
+st.subheader('Verification')
+st.write('AI outputs, OCR results, product identification and troubleshooting suggestions are assistive and should be verified against official KOHLER documentation and qualified professionals where appropriate.')

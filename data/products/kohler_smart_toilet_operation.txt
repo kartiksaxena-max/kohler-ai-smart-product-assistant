@@ -1,0 +1,16 @@
+SOURCE: KOHLER technical documentation
+PURPOSE: Prototype knowledge base. Exact operation varies by model; verify against the model manual.
+
+Smart toilet operation:
+- Some KOHLER smart toilets can be operated with a paired remote control and/or a control panel.
+- Some models support automatic flushing when the feature is enabled.
+- Some models provide a manual flush button.
+- One KOHLER technical guide describes eco and full flush options, but the exact water volume differs by model.
+- Do not assume a remote-control button layout or water volume applies to every KOHLER smart toilet.
+
+Example from KOHLER technical documentation:
+- A manual flush button can provide flushing without the remote/control panel on supported models.
+- Some models use automatic flush after the user leaves or the cover is lowered when automatic flush is enabled.
+
+Official technical documentation:
+https://techcomm.kohler.com/techcomm/pdf/1495556-5.pdf
